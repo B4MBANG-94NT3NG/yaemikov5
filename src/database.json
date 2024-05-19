@@ -1,0 +1,296 @@
+{
+  "users": {
+    "919366316018@s.whatsapp.net": {
+      "serialNumber": "5748ef2731f9b0ab993964d915670166",
+      "title": "Premium",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Hui",
+      "premium": "true",
+      "limit": 1000,
+      "totalLimit": 0
+    },
+    "4523561575@s.whatsapp.net": {
+      "serialNumber": "7c6bbf5b19b6c3a1dd37c0569b395dbc",
+      "title": "Premium",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+45 23 56 15 75",
+      "premium": "true",
+      "limit": 1000,
+      "totalLimit": 0
+    },
+    "62895412691100@s.whatsapp.net": {
+      "serialNumber": "1e3b2af132ac9e9efc7f60bac57d8590",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "밤방 트리 라하르조",
+      "premium": false,
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "62889732598305@s.whatsapp.net": {
+      "serialNumber": "493dfd06760126eaacdd13c37879f105",
+      "title": "Premium",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 889-7325-98305",
+      "premium": "true",
+      "limit": 1000,
+      "totalLimit": 0
+    },
+    "6288985703258@s.whatsapp.net": {
+      "serialNumber": "a624b36ffb9e2f320cb1e638d02e2e8d",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 889-8570-3258",
+      "premium": false,
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "6288220007310@s.whatsapp.net": {
+      "serialNumber": "49a08e85f8a0c5b281dafd884f9130f1",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 882-2000-7310",
+      "premium": false,
+      "limit": 100,
+      "totalLimit": 0
+    }
+  },
+  "database": {},
+  "chats": {
+    "120363047626537933@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antispam": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antipromotion": false,
+      "antilinkgc": false
+    },
+    "4523561575@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antispam": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antipromotion": false,
+      "antilinkgc": false
+    },
+    "62895412691100@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antispam": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antipromotion": false,
+      "antilinkgc": false
+    },
+    "120363237091042491@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antispam": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antipromotion": false,
+      "antilinkgc": false
+    },
+    "62889732598305@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antispam": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antipromotion": false,
+      "antilinkgc": false
+    },
+    "120363277472111337@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antispam": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antipromotion": false,
+      "antilinkgc": false
+    }
+  },
+  "game": {
+    "math": []
+  },
+  "settings": {
+    "919366316018@s.whatsapp.net": {
+      "totalhit": 4,
+      "totalError": 0,
+      "online": false,
+      "autosticker": false,
+      "autodownload": false,
+      "autobio": false,
+      "autoread": false,
+      "autoblocknum": false,
+      "onlyindia": false,
+      "onlyindo": false,
+      "onlygrub": false,
+      "onlypc": false,
+      "autorecordtype": false,
+      "autorecord": false,
+      "autotype": false,
+      "watermark": {
+        "packname": "Sticker By",
+        "author": "🦄드림 가이 Xeon\n\n+916909137213"
+      },
+      "about": {
+        "bot": {
+          "nick": "Hui",
+          "alias": "Cheems Bot MD V12"
+        },
+        "owner": {
+          "nick": "+91 69091 37213",
+          "alias": "916909137213"
+        }
+      }
+    },
+    "4523561575@s.whatsapp.net": {
+      "totalhit": 25,
+      "totalError": 0,
+      "online": false,
+      "autosticker": false,
+      "autodownload": false,
+      "autobio": false,
+      "autoread": false,
+      "autoblocknum": false,
+      "onlyindia": false,
+      "onlyindo": false,
+      "onlygrub": false,
+      "onlypc": false,
+      "autorecordtype": false,
+      "autorecord": false,
+      "autotype": false,
+      "watermark": {
+        "packname": "Sticker By",
+        "author": "🦄드림 가이 Xeon\n\n+916909137213"
+      },
+      "about": {
+        "bot": {
+          "nick": "+45 23 56 15 75",
+          "alias": "Cheems Bot MD V12"
+        },
+        "owner": {
+          "nick": "Xeon",
+          "alias": "916909137213"
+        }
+      }
+    },
+    "62889732598305@s.whatsapp.net": {
+      "totalhit": 78,
+      "totalError": 0,
+      "online": false,
+      "autosticker": false,
+      "autodownload": false,
+      "autobio": false,
+      "autoread": false,
+      "autoblocknum": false,
+      "onlyindia": false,
+      "onlyindo": false,
+      "onlygrub": true,
+      "onlypc": false,
+      "autorecordtype": false,
+      "autorecord": false,
+      "autotype": false,
+      "watermark": {
+        "packname": "Sticker By",
+        "author": "밤방트리라하르조\n\n+62895412691100"
+      },
+      "about": {
+        "bot": {
+          "nick": "+62 889-7325-98305",
+          "alias": "Yaemiko_Botz"
+        },
+        "owner": {
+          "nick": "+62 895-4126-91100",
+          "alias": "62895412691100"
+        }
+      }
+    }
+  },
+  "message": {},
+  "sticker": {},
+  "others": {
+    "vote": []
+  }
+}
